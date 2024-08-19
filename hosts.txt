@@ -1,3 +1,6 @@
+# 盗用本店技术的都是垃圾
+# 永久店铺地址：https://kdocs.cn/l/cczSDiEzZche
+# 最后更新：2024-08-17
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cc-api-data-stage.adobe.io
@@ -174,7 +177,7 @@
 0.0.0.0 c4dpyxapo7.adobestats.io
 0.0.0.0 cde0alxs25.adobestats.io
 0.0.0.0 cr2fouxnpm.adobestats.io
-0.0.0.0 curbpindd3.adobestats.io
+0.0.0.0 遏制pindd3.adobestats.io
 0.0.0.0 d101mw99xq.adobestats.io
 0.0.0.0 d2ke1291mx.adobestats.io
 0.0.0.0 d6zco8is6l.adobestats.io
@@ -319,7 +322,7 @@
 0.0.0.0 w8x0780324.adobestats.io
 0.0.0.0 wcxqmuxd4z.adobestats.io
 0.0.0.0 wjoxlf5x2z.adobestats.io
-0.0.0.0 wtooadkup9.adobestats.io
+0.0.0.0 wtoadkup9.adobestats.io
 0.0.0.0 wz8kjkd9gc.adobestats.io
 0.0.0.0 x5cupsunjc.adobestats.io
 0.0.0.0 x880ulw3h0.adobestats.io
@@ -344,7 +347,7 @@
 0.0.0.0 zekdqanici.adobestats.io
 0.0.0.0 zfzx6hae4g.adobestats.io
 0.0.0.0 zmg3v61bbr.adobestats.io
-0.0.0.0 zooyvml70k.adobestats.io
+0.0.0.0zooyvml70k.adobestats.io
 0.0.0.0 zqr7f445uc.adobestats.io
 0.0.0.0 zr60t8ia88.adobestats.io
 0.0.0.0 zrao5tdh1t.adobestats.io
@@ -380,7 +383,7 @@
 0.0.0.0 mvnfbgfx93.adobestats.io
 0.0.0.0 nj9rqrql3b.adobestats.io
 0.0.0.0 ns6ckzkjzg.adobestats.io
-0.0.0.0 ouovuyeiee.adobestats.io
+0.0.0.0 ouovuyiee.adobestats.io
 0.0.0.0 tld9di3jxu.adobestats.io
 0.0.0.0 xa8g202i4u.adobestats.io
 0.0.0.0 z83qksw5cq.adobestats.io
@@ -587,7 +590,7 @@
 0.0.0.0 spbuswk2di.adobestats.io
 0.0.0.0 swxs9c0fpt.adobestats.io
 0.0.0.0 v7esmx1n0s.adobestats.io
-0.0.0.0 zglaizubbj.adobestats.io
+0.0.0.0 zglaizubj.adobestats.io
 0.0.0.0 22wqqv6b23.adobestats.io
 0.0.0.0 5jdb1nfklf.adobestats.io
 0.0.0.0 6glym36rbb.adobestats.io
@@ -714,3 +717,23 @@
 0.0.0.0 4zong3qp04.adobestats.io
 0.0.0.0 giq5q50mql.adobestats.io
 0.0.0.0 vs8cvtxb6h.adobestats.io
+0.0.0.0 3f3h0nltvv.adobestats.io
+0.0.0.0 9f0nec97jl.adobestats.io
+0.0.0.0 a781lq3dl1.adobestats.io
+0.0.0.0 cqtur9nf2j.adobestats.io
+0.0.0.0 d13qjllccx.adobestats.io
+0.0.0.0 e94c9o627h.adobestats.io
+0.0.0.0 g25js6o5zn.adobestats.io
+0.0.0.0 grzjv3nyau.adobestats.io
+0.0.0.0 j0c7zaivwa.adobestats.io
+0.0.0.0 j7d199wwp8.adobestats.io
+0.0.0.0 o75l4dlkbh.adobestats.io
+0.0.0.0 sgg0nltplg.adobestats.io
+0.0.0.0 uiktuww26f.adobestats.io
+0.0.0.0 wojee26p4t.adobestats.io
+0.0.0.0 xm0yibvxj5.adobestats.io
+0.0.0.0 y1usv3l35k.adobestats.io
+0.0.0.0 yaxvhurwoa.adobestats.io
+0.0.0.0 1w46mavare.adobestats.io
+0.0.0.0 lhdf90vxbv.adobestats.io
+0.0.0.0 wrtafci7rp.adobestats.io
